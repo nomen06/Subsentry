@@ -18,3 +18,7 @@ This project exists because of your time, effort, and curiosity.
 
 ---
 
+- **Name:** Digvijay Singh Rawat  
+- **GitHub:** https://github.com/Digvijay-x1  
+- **About:** Student at IIITA. Beginner at open source. Grateful to be a part of OpenCode program.
+
