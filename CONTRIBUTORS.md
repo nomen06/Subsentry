@@ -97,6 +97,10 @@ This project exists because of your time, effort, and curiosity.
 - **GitHub:** https://github.com/vraj826
 - **About:** 1st Year CSE student at Dharmsinh Desai University, Nadiad. Here to learn about Open-Source Contributions.
 
+- **Name:** NAVDEEP R
+- **GitHub:** https://github.com/navdeep-r
+- **About:** sophomore jumpin into open source much deeper
+
 - **Name:** Harshit Sethi  
 - **GitHub:** https://github.com/HarshitRSethi  
 - **About:** I'm a first-year IT undergrad at IIIT Allahabad, passionate about learning programming, web development, and exploring the world of AI. 
