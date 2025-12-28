@@ -133,3 +133,7 @@ This project exists because of your time, effort, and curiosity.
 - **Name:** Kamakshi Gupta  
 - **GitHub:** https://github.com/kamakshi-gupta  
 - **About:** IT Sophomore at IIIT Allahabad, exploring open source and learn along the way.
+
+- **Name** Chauhan Devan
+- **Github** https://github.com/Devan019
+- **About:** Try to solve problems using my software skills :)
