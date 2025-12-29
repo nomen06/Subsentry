@@ -1,5 +1,5 @@
 export const subscriptionCategories = {
-    Entatainment: "Entatainment",
+    Entertainment: "Entertainment",
     Music: "Music",
     Education: "Education",
     Productivity: "Productivity",
@@ -7,16 +7,18 @@ export const subscriptionCategories = {
     Health: "Health",
     Other: "Other",
 };
+
 export const subscriptionReference = {
     Manual: "manual",
     Gmail: "gmail",
 };
+
 export const subscriptionStatus = {
-    Active: "Active",
-    Cancelled: "Cancelled",
-    Expired: "Expired",
+    Active: "active",
+    Cancelled: "cancelled",
+    Expired: "expired",
 };
 
 export const categoryValues = Object.values(subscriptionCategories);
 export const sourceValues = Object.values(subscriptionReference);
-export const statusValues = Object.values.apply(subscriptionStatus);
+export const statusValues = Object.values(subscriptionStatus);
